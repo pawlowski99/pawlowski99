@@ -7,9 +7,9 @@ About me:
 - 📫 How to reach me: pawlowski3141@gmail.com
 
 My lastest interests are web aplications:
-- Spring MVC application for planning user's gym traingings and visualizing progress - one person project
+- Spring MVC application for planning user's gym traingings and visualizing progress
 - Spring MVC application for reviewing video games - group project / front-end
-- Django MVT application for planning physical activities - one person project
+- [Django MVT application for planning physical activities](https://github.com/pawlowski99/University-Projects/tree/main/FitnessApp-Django)
 
 Languages and frameworks I'm familiar with:
 - C
