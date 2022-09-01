@@ -6,7 +6,7 @@ About me:
 - 👯 I’m looking to collaborate on interesting idea.
 - 📫 How to reach me: pawlowski3141@gmail.com
 
-My lastest projects are web aplications:
+My lastest projects are web applications:
 - [Spring Boot web application for planning user's gym traingings and visualizing progress](https://github.com/pawlowski99/University-Projects/tree/main/GymDashboard)
 - [Spring Boot web application for reviewing video games - group project / front-end](https://github.com/pawlowski99/University-Projects/tree/main/GameReviews)
 
