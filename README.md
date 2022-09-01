@@ -7,8 +7,8 @@ About me:
 - 📫 How to reach me: pawlowski3141@gmail.com
 
 My lastest projects are web aplications:
-- [Spring MVC application for planning user's gym traingings and visualizing progress](https://github.com/pawlowski99/University-Projects/tree/main/GymDashboard)
-- [Spring MVC application for reviewing video games - group project / front-end](https://github.com/pawlowski99/University-Projects/tree/main/GameReviews)
+- [Spring Boot web application for planning user's gym traingings and visualizing progress](https://github.com/pawlowski99/University-Projects/tree/main/GymDashboard)
+- [Spring Boot web application for reviewing video games - group project / front-end](https://github.com/pawlowski99/University-Projects/tree/main/GameReviews)
 
 Languages and frameworks I'm familiar with:
 - Java
