@@ -8,7 +8,7 @@ About me:
 
 My lastest projects are web applications:
 - [Spring Boot web application for planning user's gym traingings and visualizing progress](https://github.com/pawlowski99/University-Projects/tree/main/GymDashboard)
-- [Spring Boot web application for reviewing video games - group project / front-end](https://github.com/pawlowski99/University-Projects/tree/main/GameReviews)
+- [Spring Boot web application for reviewing video games - team project / front-end](https://github.com/pawlowski99/University-Projects/tree/main/GameReviews)
 
 Languages and frameworks I'm familiar with:
 - Java
