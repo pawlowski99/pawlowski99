@@ -4,7 +4,6 @@ About me:
 
 - 🌱 I’m currently learning to write clean code.
 - 👯 I’m looking to collaborate on interesting idea.
-- 📫 How to reach me: pawlowski3141@gmail.com
 
 My lastest projects are web applications:
 - [Spring Boot web application for planning user's gym traingings and visualizing progress](https://github.com/pawlowski99/University-Projects/tree/main/GymDashboard)
